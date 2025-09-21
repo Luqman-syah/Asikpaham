@@ -1,7 +1,7 @@
-- 👋 Hi everyone, I’m @Asikpaham
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning git, github, html, css, JavaScript
-- 💞️ I’m looking to collaborate on all human
+- 👋 Hi everyone, I’m @Luqman-syah
+- 👀 I’m interested all about technology
+- 🌱 I’m currently learning, github, html, css, JavaScript, Java, MySql
+- 💞️ I’m looking to collaborate on all Partners
 
 <!---
 Asikpaham/Asikpaham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
